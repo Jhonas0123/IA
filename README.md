@@ -1,1 +1,1 @@
-# IA
+# Cursos relacionados con IA
